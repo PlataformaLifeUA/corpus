@@ -73,7 +73,7 @@
 </Feature>
 <Feature>
   <Name className="java.lang.String">PrimaryMessageType</Name>
-  <Value className="java.lang.String">Mysticity</Value>
+  <Value className="java.lang.String">Mysticism</Value>
 </Feature>
 </Annotation>
 </AnnotationSet>
@@ -92,7 +92,7 @@
 </Feature>
 <Feature>
   <Name className="java.lang.String">PrimaryMessageType</Name>
-  <Value className="java.lang.String">Mysticity</Value>
+  <Value className="java.lang.String">Mysticism</Value>
 </Feature>
 <Feature>
   <Name className="java.lang.String">Language</Name>
