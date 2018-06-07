@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Key Expressions</Name>
+  <Value className="java.lang.String">Peace</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">created from String</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Online Users</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Date and time of collection</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Readers/Subscribers</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Category</Name>
+  <Value className="java.lang.String">Negative behaviour</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Other Issues</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Suicidal Clasification</Name>
+  <Value className="java.lang.String">Negative Message</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Moderators</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Nickname</Name>
+  <Value className="java.lang.String">Nobody-Zero</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Be<Node id="2"/> <Node id="3"/>at<Node id="5"/> <Node id="6"/>peace<Node id="11"/>.<Node id="12"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="consensus">
+<Annotation Id="0" Type="SuicidalClassification" StartNode="0" EndNode="12">
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">EN</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">AlertLevel</Name>
+  <Value className="java.lang.String">No risk</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">PrimaryMessageType</Name>
+  <Value className="java.lang.String">Undefined</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="bea/ markups">
+<Annotation Id="1" Type="SuicidalClassification" StartNode="0" EndNode="12">
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">EN</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">AlertLevel</Name>
+  <Value className="java.lang.String">No risk</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">PrimaryMessageType</Name>
+  <Value className="java.lang.String">Undefined</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="LingPipex Tokenizer Markup">
+<Annotation Id="2" Type="Token" StartNode="0" EndNode="2">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="SpaceToken" StartNode="2" EndNode="3">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Token" StartNode="3" EndNode="5">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="SpaceToken" StartNode="5" EndNode="6">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Token" StartNode="6" EndNode="11">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">5</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Token" StartNode="11" EndNode="12">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Sentence Markup">
+<Annotation Id="8" Type="Sentence" StartNode="0" EndNode="12">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="original markups">
+<Annotation Id="0" Type="SuicidalClassification" StartNode="0" EndNode="12">
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">EN</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">AlertLevel</Name>
+  <Value className="java.lang.String">No risk</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">PrimaryMessageType</Name>
+  <Value className="java.lang.String">Undefined</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

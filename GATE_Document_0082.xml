@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Key Expressions</Name>
+  <Value className="java.lang.String">Negative emotions</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">created from String</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Nickname/Group Name</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Date and time of collection</Name>
+  <Value className="java.lang.String">Mie 26 de Mayo, 2016. 16:42-17:00</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Category</Name>
+  <Value className="java.lang.String">Negative emotions</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Publication Date</Name>
+  <Value className="java.lang.String">17 horas antes</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Other Issues</Name>
+  <Value className="java.lang.String">Sigue a 545 personas  y tiene 422,4K  seguidores. Este Tweet  ha sido retuiteado 122 veces y le gusta a 453 personas. En su perfil de Facebook la usuaria indica que está estudiando arte y tiene 24 años. </Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Suicidal Clasification</Name>
+  <Value className="java.lang.String">Negative message</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Likes</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Tengo<Node id="5"/> <Node id="6"/>una<Node id="9"/> <Node id="10"/>soledad<Node id="17"/> <Node id="18"/>tan<Node id="21"/> <Node id="22"/>concurrida<Node id="32"/>,<Node id="33"/> <Node id="34"/>tan<Node id="37"/> <Node id="38"/>llena<Node id="43"/> <Node id="44"/>de<Node id="46"/> <Node id="47"/>nostalgias<Node id="57"/> <Node id="58"/>y<Node id="59"/> <Node id="60"/>rostros<Node id="67"/> <Node id="68"/>de<Node id="70"/> <Node id="71"/>vos<Node id="74"/>.<Node id="75"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="consensus">
+<Annotation Id="1" Type="SuicidalClassification" StartNode="0" EndNode="75">
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">ES</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">AlertLevel</Name>
+  <Value className="java.lang.String">No risk</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">PrimaryMessageType</Name>
+  <Value className="java.lang.String">Sadness or melancholy</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="bea/ markups">
+<Annotation Id="1" Type="SuicidalClassification" StartNode="0" EndNode="75">
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">ES</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">AlertLevel</Name>
+  <Value className="java.lang.String">No risk</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">PrimaryMessageType</Name>
+  <Value className="java.lang.String">Sadness or melancholy</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="LingPipex Tokenizer Markup">
+<Annotation Id="2" Type="Token" StartNode="0" EndNode="5">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">5</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="SpaceToken" StartNode="5" EndNode="6">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Token" StartNode="6" EndNode="9">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="SpaceToken" StartNode="9" EndNode="10">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Token" StartNode="10" EndNode="17">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">7</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="SpaceToken" StartNode="17" EndNode="18">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Token" StartNode="18" EndNode="21">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="SpaceToken" StartNode="21" EndNode="22">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Token" StartNode="22" EndNode="32">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">10</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Token" StartNode="32" EndNode="33">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="SpaceToken" StartNode="33" EndNode="34">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Token" StartNode="34" EndNode="37">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="SpaceToken" StartNode="37" EndNode="38">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Token" StartNode="38" EndNode="43">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">5</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="SpaceToken" StartNode="43" EndNode="44">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Token" StartNode="44" EndNode="46">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="SpaceToken" StartNode="46" EndNode="47">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Token" StartNode="47" EndNode="57">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">10</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="SpaceToken" StartNode="57" EndNode="58">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Token" StartNode="58" EndNode="59">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="SpaceToken" StartNode="59" EndNode="60">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Token" StartNode="60" EndNode="67">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">7</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="SpaceToken" StartNode="67" EndNode="68">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Token" StartNode="68" EndNode="70">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="SpaceToken" StartNode="70" EndNode="71">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Token" StartNode="71" EndNode="74">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Token" StartNode="74" EndNode="75">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Sentence Markup">
+<Annotation Id="29" Type="Sentence" StartNode="0" EndNode="75">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="original markups">
+<Annotation Id="0" Type="SuicidalClassification" StartNode="0" EndNode="75">
+<Feature>
+  <Name className="java.lang.String">AlertLevel</Name>
+  <Value className="java.lang.String">No risk</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">PrimaryMessageType</Name>
+  <Value className="java.lang.String">Sadness or melancholy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">ES</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">SuicidalClassificationType</Name>
+  <Value className="java.lang.String">Negative message</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

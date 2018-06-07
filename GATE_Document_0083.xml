@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Key Expressions</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">created from String</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Nickname/Group Name</Name>
+  <Value className="java.lang.String">Emociones de un suicida</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Date and time of collection</Name>
+  <Value className="java.lang.String">Dom 22 Marzo, 17:48-20:21</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Category</Name>
+  <Value className="java.lang.String">Negative behaviour</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Publication Date</Name>
+  <Value className="java.lang.String">22 de Octubre, 2015</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Other Issues</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Suicidal Clasification</Name>
+  <Value className="java.lang.String">Negative message</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Likes</Name>
+  <Value className="java.lang.String">3704</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsteps</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Suicide<Node id="7"/> <Node id="8"/>Room<Node id="12"/> <Node id="13"/>&lt;<Node id="14"/>3<Node id="15"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="consensus">
+<Annotation Id="2" Type="SuicidalClassification" StartNode="0" EndNode="15">
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">ES</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">AlertLevel</Name>
+  <Value className="java.lang.String">No risk</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">PrimaryMessageType</Name>
+  <Value className="java.lang.String">Suicide curiosity</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="bea/ markups">
+<Annotation Id="1" Type="SuicidalClassification" StartNode="0" EndNode="15">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">AlertLevel</Name>
+  <Value className="java.lang.String">No risk</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">PrimaryMessageType</Name>
+  <Value className="java.lang.String">Suicide curiosity</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">ES</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="LingPipex Tokenizer Markup">
+<Annotation Id="3" Type="Token" StartNode="0" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">7</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="SpaceToken" StartNode="7" EndNode="8">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Token" StartNode="8" EndNode="12">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="SpaceToken" StartNode="12" EndNode="13">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Token" StartNode="13" EndNode="14">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Token" StartNode="14" EndNode="15">
+<Feature>
+  <Name className="java.lang.String">length</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Sentence Markup">
+<Annotation Id="9" Type="Sentence" StartNode="0" EndNode="15">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="original markups">
+<Annotation Id="0" Type="SuicidalClassification" StartNode="0" EndNode="15">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">AlertLevel</Name>
+  <Value className="java.lang.String">Possible</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">PrimaryMessageType</Name>
+  <Value className="java.lang.String">Auto-Pro-Suicide</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Language</Name>
+  <Value className="java.lang.String">ES</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">SuicidalClassificationType</Name>
+  <Value className="java.lang.String">Negative message</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
