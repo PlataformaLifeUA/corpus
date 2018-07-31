@@ -73,7 +73,7 @@
 
 <!-- Named annotation set -->
 
-<AnnotationSet Name="bea/ markups">
+<AnnotationSet Name="80 markups">
 <Annotation Id="1" Type="SuicidalClassification" StartNode="0" EndNode="15">
 <Feature>
   <Name className="java.lang.String">anndiffstep</Name>
@@ -144,7 +144,7 @@
 
 <!-- Named annotation set -->
 
-<AnnotationSet Name="original markups">
+<AnnotationSet Name="15 markups">
 <Annotation Id="0" Type="SuicidalClassification" StartNode="0" EndNode="15">
 <Feature>
   <Name className="java.lang.String">anndiffstep</Name>
