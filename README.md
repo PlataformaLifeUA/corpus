@@ -17,7 +17,7 @@ Next tables provide more details of each property:
 |----------|----------------------|
 | English  | 71                   |
 | Spanish  | 31                   |
-|----------|----------------------|
+
 
 | Alert Level | Quantity | English | Spanish |
 |-------------|----------|---------|---------|
@@ -25,23 +25,21 @@ Next tables provide more details of each property:
 | Urgent      | 19 		 |   15	   | 4 		 |
 | Possible    | 8 		 |   6	   | 2		 |
 | Immediate   | 5 		 |	 5 	   | 0		 |
-|-------------|----------|---------|---------|
+
 
 | Type of message 		| Quantity | English | Spanish |
 |-----------------------|----------|---------|---------|
 | Undefined        		| 38 	   | 32 	 | 6 	   |
 | Auto-Pro-Suicide      | 22 	   | 20 	 | 2 	   |
-|-----------------------|----------|---------|---------|
 | Sadness or melancholy | 11 	   | 1 		 | 10 	   |
 | Auto-No-Pro-Suicide   | 10 	   | 7 		 | 3	   |
 | Depression   			| 9  	   | 5 		 | 4 	   |
 | Suicide curiosity		| 5 + 1    | 3 + 1   | 2 	   |
-|-----------------------|----------|---------|---------|
 | Irony                 | 3  	   | 2       | 1       |
 | Citation              | 2  	   | 0       | 2       |
 | Mysticism             | 1  	   | 0       | 1       |
 | Instigator            | 1  	   | 1       | 0       |
-|------------------------------------------------------|
+
 
 ## Built with
 - [Gate Developer 8.2](https://gate.ac.uk/): The annotation tool used
